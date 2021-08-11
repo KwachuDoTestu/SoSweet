@@ -1,0 +1,80 @@
+.flex-wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+
+}
+
+iframe {
+	
+	width: 90vw;
+	height: 50vw;
+}
+
+.iframe_container {
+	margin: auto;
+	margin-top: 5vw;
+}
+
+.h1_box {
+	margin: 10vw;
+	margin-bottom: 3vw;
+	text-align: center;
+	background: url("babeczka.svg") no-repeat right bottom;
+}
+
+.long {
+	margin-left: 6vw;
+	margin-right: 6vw;
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+
+.flex_div {
+	width: 35vw;
+	display: flex;
+	align-items: flex-start;
+}
+
+
+.pin {
+	width: 1.5em;
+	margin-right: 3%;
+	position: relative;
+	margin-top: -3%;
+}
+
+.media_a {
+	color: #282828;
+}
+
+.media_list li::marker {
+	content: "▶  ";
+	color: #f998b7;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+	.h1_box {
+		margin-top: 30vw;
+		margin-bottom: 15vw;
+		margin-left: 8vw;
+		margin-right: 9vw;
+		font-size: 0.9em;
+	}
+
+	.long {
+		font-size: 0.5em;
+		margin-left: 3vw;
+		margin-right: 3vw;
+	}
+
+
+}
+

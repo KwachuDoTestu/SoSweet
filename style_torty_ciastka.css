@@ -1,0 +1,19 @@
+h1 {
+	margin-top: 200px;
+}
+
+
+.grid-flex {
+
+	margin-left: 250px;
+	margin-right: 250px;
+}
+
+@media only screen and (max-width: 600px) {
+	
+	.grid-flex {
+    	margin: 0px;
+    }
+
+}
+
