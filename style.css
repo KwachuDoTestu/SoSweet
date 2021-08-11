@@ -20,7 +20,7 @@ body {
 	justify-content: space-around;
 	list-style: none;
 	margin: 0;
-	padding: 2vw;
+	padding: 1.5vw;
 	background-color: #f998b7;
 	position: fixed;
     	top: 0;
@@ -288,7 +288,7 @@ p {
     }
 
     .cover-container {
-    	margin-top: 20vw;
+    	margin-top: 23vw;
     	margin-bottom: 10vw;
     }
 
