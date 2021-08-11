@@ -7,8 +7,8 @@
 
 iframe {
 	
-	width: 90vw;
-	height: 50vw;
+	width: 100vw;
+	height: 60vw;
 }
 
 .iframe_container {
@@ -71,9 +71,9 @@ iframe {
 	}
 
 	.long {
-		font-size: 0.5em;
-		margin-left: 3vw;
-		margin-right: 3vw;
+		font-size: 0.4em;
+		margin-left: 1.5vw;
+		margin-right: 1.5vw;
 	}
 
 
